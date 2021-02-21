@@ -1,0 +1,25 @@
+This folder contains the source code for the analysis in DC2020 and the 
+insuing comment. 
+
+author: Kelian Dascher-Cousineau
+
+
+Figure 2 of the comment can be obtained by navigating to ./COMMENT and running:
+
+figure_2_main.m
+
+
+Figure 2 and 3 of Dascher-Cousineau, Lay & Brodsky, 2020 are obtained by
+navigating to ./DC2020/FIGURE23 and running:
+
+figure_23_main.m
+
+
+Figure 4 of Dascher-Cousineau, Lay & Brodsky, 2020 uses a wrapper code and 
+can be obtained by navigating to ./DC2020/FIGURE_4 and running:
+
+sensitivity_bval_timeseries.m
+
+These codes are meant for archival purposes only. Please contact me at
+kdascher@ucsc.edu if any problem should arise. 
+
